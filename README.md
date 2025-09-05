@@ -6,7 +6,6 @@
   <em>Creative Designer | Web Developer | Video Editor | CA Aspirant</em>
 </p>
 
-
 <h3 align="center" style="color: #00FFAB;">🔗 Quick Navigation</h3>
 
 <div align="center">
@@ -22,13 +21,7 @@
     <img src="https://img.shields.io/badge/Socials-%2300FFAB?style=for-the-badge&logo=github" alt="Socials" />
   </a>
 
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-%2300FFAB?style=for-the-badge&logo=github" alt="Projects" />
-  </a>
 </div>
-
----
-
 
 
 ---
