@@ -3,7 +3,7 @@
 <h2 align="center" style="color: #00FFAB;">👋 Hey there! I'm Krishna</h2>
 
 <p align="center">
-  <em>Creative Designer | Web Developer | Video Editor | CA Aspirant</em>
+  <em>Creative Designer | Web Developer | Video Editor | Software Dev</em>
 </p>
 
 <h3 align="center" style="color: #00FFAB;">🔗 Quick Navigation</h3>
