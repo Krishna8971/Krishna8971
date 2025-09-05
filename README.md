@@ -36,8 +36,8 @@
 <h3 id="about" style="color: #00FFAB;">🌟 About Me</h3>
 
 - 🎨 Passionate about **design, development, and creativity**.
-- 📚 Currently pursuing **B.Com Honours** and working towards becoming a **CA**.
-- 💻 Skilled in **video editing, graphic design, and web development**.
+- 📚 Currently pursuing **B.Tech CSE AIML** and working towards becoming a **Full Stack/Agentic AI Dev**.
+- 💻 Skilled in **video editing, graphic design,Full Stack Development and web development**.
 - 🏆 Over 3 years of experience in **content creation and event leadership**.
 
 
